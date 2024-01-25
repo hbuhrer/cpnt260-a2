@@ -4,7 +4,7 @@ Assignment Name: Single Card Assignment
 
 Author Name: Hendrich Buhrer
 
-GH Pages Link:  
+GH Pages Link: https://hbuhrer.github.io/cpnt260-a2/
 
 Attributions: Card Image: (2023). Wikimedia.org. https://upload.wikimedia.org/wikipedia/en/4/46/Grand_Theft_Auto_VI.png
 
